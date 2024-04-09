@@ -19,7 +19,7 @@ The Gemini Script offers a streamlined way to interact with the Google Generativ
 
 ## Installation
 
-1. Download or clone the `gemini.sh` script to your local system.
+1. Download or clone: `git clone https://github.com/rockviana/gemini-on-bash.git`.
 2. Open your terminal and change directory (`cd`) to where `gemini.sh` is located.
 3. Execute the script with the install command:
    ```bash
